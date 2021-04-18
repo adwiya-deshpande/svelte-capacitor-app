@@ -1,0 +1,13 @@
+{
+  "appId": "com.svelte.capaacitor",
+  "appName": "svelte-capacitor-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
