@@ -5,6 +5,7 @@
 3) npm i
 4) npm run dev
 5) Put these links in the index.html
+
     <script type="module" src="node_modules/@ionic/core/dist/ionic/ionic.esm.js"></script>
     <script nomodule src="node_modules/@ionic/core/dist/ionic/ionic.js"></script>
     <link rel="stylesheet" href="node_modules/@ionic/core/css/ionic.bundle.css"/>
